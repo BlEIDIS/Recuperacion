@@ -1,0 +1,28 @@
+
+
+body{
+   background:url("../img/maldives-island.jpg");
+   margin: 0;
+   padding: 0;   
+   background-size: cover;
+   font-family: sans-serif;
+   color: #040404;
+   
+}
+
+button{
+
+   background:url("../js/funtions.js");
+   border:3px solid rgba(100, 100, 100, 0.1);
+   margin-bottom: 8px;
+   padding:25px;
+   width: 300px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+   border-radius: 10px;
+   color: #080101;
+   background-size: 300%;
+   background-image: linear-gradient(to left, #09380c ,#0c5928,#11d522);
+  
+
+}
